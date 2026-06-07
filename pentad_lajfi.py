@@ -1,9 +1,10 @@
 """
-PENTAD LAJFI - Evolutionary Life Simulation
-Combines lajfi simulation (github.com/jinkieyz/lajfi) with
-PENTAD organisms (github.com/jinkieyz/pentad)
+GEMESIS - Evolutionary Life Simulation
+github.com/jinkieyz/gemesis
 
-5-segment Gielis supershape creatures that live, eat, mate and die.
+Gielis supershape organisms that live, eat, mate and die.
+Each generation produces new sculptural forms through mutation.
+Exports STL meshes for glass casting and 3D printing.
 
 Usage: Open in Blender, run script (Alt+P)
 Or: blender --python pentad_lajfi.py
